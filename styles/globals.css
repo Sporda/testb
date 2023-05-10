@@ -1,3 +1,4 @@
+
 html,
 body {
   padding: 0;
@@ -13,4 +14,7 @@ a {
 
 * {
   box-sizing: border-box;
+}
+:root {
+  --glow-color: hsl(0, 0%, 100%);
 }
